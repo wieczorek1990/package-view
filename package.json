@@ -1,0 +1,7 @@
+{
+  "name": "package_view",
+  "description": "package.json viewer",
+  "author": "Łukasz Wieczorek <wieczorek1990@gmail.com>",
+  "license": "MIT",
+  "version": "0.1.0"
+}
